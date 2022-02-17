@@ -1,0 +1,88 @@
+section{
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+section h3 {
+    font-size: 1.7em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+
+.imagem-projeto{
+    width: 100%;
+    max-width: 300px;
+}
+
+.identity { 
+    background-color: rgba(219, 131, 159, 0.932);
+    color: #FFF;
+    padding: 10em 2em 7em;
+}
+
+.identity h1 {
+    font-family: 'Elsie Swash Caps', cursive;
+    font-size: 2.5em;
+    margin-bottom: 0.7em;
+}
+
+.identity h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+.projects-header{
+    float: left;
+    width: 30%;
+}
+
+.projects-header h3 {
+    color: rgb(238, 27, 150);
+    margin-top: 1em;
+    text-shadow: 0.2em 0.2em 0.2em rgb(219, 155, 190);
+}
+.projects-header p {
+    color: rgb(238, 27, 150);
+}
+
+.projects{
+    margin-left: 40%;
+
+}
+
+.projects li {
+    background-color: rgba(212, 134, 159, 0.932);
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+.projects li a {
+    font-family: 'Elsie Swash Caps', cursive;
+    color: #fff;
+    font-size: 1.3em;
+}
+
+.projects li p {
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 0.1em 0.1em 0.1em rgb(219, 155, 190);
+    color: rgb(241, 231, 240);
+    margin-top: 0.5em;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+
+.projects-header h3 {
+    text-shadow: 0.1em 0.1em 0.1em rgb(230, 175, 205);
+}
+
+.projects-header p {
+    text-shadow: 0.1em 0.1em 0.1em rgb(199, 128, 167);
+}
+
+
+
+
