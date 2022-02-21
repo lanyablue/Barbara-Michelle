@@ -1,4 +1,3 @@
 <h1>Barbara Michelle</h1>
 
-<p>Um projeto de blog pessoal, com o intuito de instruir-me ao Front-end. O blog não é responsivo para mobile ou plataformas além do computador, o propósito maior foi aprender o básico de como utilizar HTML e CSS. Feito todo em HTML e CSS puros, sem uso de frameworks, bibliotecas, back-end e JavaScript. </p>
-
+Veja a documentação da página <a href="https://clear-cadet-cae.notion.site/Barbara-Michelle-483d3d9f6fdc46bab6f44430e778e52a">aqui</a>
